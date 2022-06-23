@@ -1,0 +1,22 @@
+.item {
+  background-color: white;
+}
+.chosen {
+  background-color: red;
+}
+#box {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  background-color: lightblue;
+  height: 400px;
+}
+body {
+  background-color: grey;
+}
+button{
+  margin: 20px;
+  width: 150px;
+  height: 50px;
+  font-size: larger;
+}
